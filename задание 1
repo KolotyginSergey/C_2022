@@ -1,0 +1,16 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a=4;
+    float b=1.5;
+    char c='t';
+    bool d=false;
+    cout<<a*2<<' '<<b/2<<' '<<char(c+1)<<' '<<!d<<endl;
+    
+    
+
+    return 0;
+}
